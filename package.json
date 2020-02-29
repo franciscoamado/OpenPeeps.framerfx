@@ -1,0 +1,18 @@
+{
+	"main": "dist/index.js",
+	"license": "MIT",
+	"devDependencies": {
+		"@types/react": "^16.8"
+	},
+	"peerDependencies": {
+		"framer": "^1.0",
+		"react": "^16.8"
+	},
+	"framer": {
+		"id": "ca23bcd1-a041-4bff-913d-643cc5d380ea"
+	},
+	"author": "Francisco Amado",
+	"dependencies": {
+		"@framer/framer.default": "^1.11.0"
+	}
+}
